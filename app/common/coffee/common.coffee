@@ -1,0 +1,1 @@
+console.log "Hello, LoiLo Web App"
